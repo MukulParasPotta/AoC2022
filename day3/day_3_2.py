@@ -1,7 +1,6 @@
 from io import TextIOWrapper
 from string import ascii_uppercase
 from string import ascii_lowercase
-from itertools import islice
 
 priority_sum = 0
 with open('input.txt', 'r') as input:
